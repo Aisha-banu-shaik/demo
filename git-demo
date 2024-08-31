@@ -1,0 +1,6 @@
+# docker file to create an image
+FROM nginx
+WORKDIR PATH/AISHA
+COPY 
+ENTRYPOINT
+CMD
