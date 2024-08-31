@@ -3,5 +3,5 @@ FROM nginx
 WORKDIR PATH/AISHA
 COPY 
 ENTRYPOINT
-
+CMD
 image: nginx
