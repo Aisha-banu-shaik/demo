@@ -5,3 +5,4 @@ COPY
 ENTRYPOINT
 CMD
 image: nginx
+  tags:arm
